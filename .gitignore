@@ -1,0 +1,4 @@
+# Neovim lazy-lock (uncomment to pin plugin versions)
+# nvim/lazy-lock.json
+
+.DS_Store
