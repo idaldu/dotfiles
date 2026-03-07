@@ -9,6 +9,7 @@ Personal configuration for **Neovim** (LazyVim), **tmux**, and **Yazi**.
 | [Neovim](https://neovim.io) | LazyVim + extras: TypeScript, Vue, Copilot, JSON + ESLint formatting via `eslint_d` |
 | [tmux](https://github.com/tmux/tmux) | Catppuccin Mocha theme, sensible keymaps, mouse support |
 | [Yazi](https://github.com/sxyazi/yazi) | Catppuccin Mocha theme |
+| [Ghostty](https://ghostty.org) | IosevkaTerm Nerd Font, Catppuccin Mocha, hidden titlebar |
 
 ## Install
 
@@ -27,7 +28,7 @@ Install these first:
 
 ```bash
 # macOS
-brew install neovim tmux yazi node git ripgrep fd lazygit
+brew install neovim tmux yazi ghostty node git ripgrep fd lazygit
 
 # Neovim extras (for LazyVim)
 brew install luarocks stylua

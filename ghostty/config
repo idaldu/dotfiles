@@ -1,0 +1,9 @@
+font-family = IosevkaTerm Nerd Font
+font-size = 14
+macos-titlebar-style = hidden
+theme = Catppuccin Mocha
+
+window-padding-x = 16
+window-padding-y = 16
+
+keybind = cmd+k=text:clear\r

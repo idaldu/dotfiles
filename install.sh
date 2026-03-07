@@ -51,6 +51,10 @@ fi
 info "Setting up Yazi..."
 backup_and_link "$DOTFILES/yazi" "$HOME/.config/yazi"
 
+# ── Ghostty ─────────────────────────────────────────────────────────────────
+info "Setting up Ghostty..."
+backup_and_link "$DOTFILES/ghostty" "$HOME/.config/ghostty"
+
 # ── Done ────────────────────────────────────────────────────────────────────
 echo ""
 echo "╔═══════════════════════════════════════════════════════╗"
